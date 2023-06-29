@@ -15,6 +15,9 @@
   </a> -->
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=SamuelJAmos&style=flat-square&color=blue" alt=""/>
+
+
 <!--
 **SamuelJAmos/SamuelJAmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
